@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesync",
+        "uuid": 5095121,
+        "checksum": "0h9xa"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
